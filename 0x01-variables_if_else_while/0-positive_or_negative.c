@@ -9,7 +9,9 @@
 int main(void)
 {
 srand(time(NULL));
+
 int n = rand();
+
 if (n > 0)
 	printf("The number %d is positive\n", n);
 else if (n == 0)
