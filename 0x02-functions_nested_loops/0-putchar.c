@@ -3,10 +3,8 @@
   *main - Entry point
   *Author - Opara Vivian
   *Description - Prints putchar
-  *@c:Character to be output
   *Return: Always (0)
   */
-int _putchar(int c);
 
 int main(void)
 {
