@@ -1,6 +1,8 @@
 #ifndef CALC_H
 #define CALC_H
-
+/**
+  *struct op - a struct op
+  */
 
 typedef struct op
 {
